@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4208e93c-3535-471d-95e2-915012264157" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/selenium-capture.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/selenium-login.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ch2/selenium-js.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ch1/docs.python.org/3.5/" />
@@ -50,7 +49,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium-login.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selenium-js.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ch2/selenium-js.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selenium-login.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ch2/selenium-login.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -85,6 +94,7 @@
         <option value="$PROJECT_DIR$/ch2/login-getmileage.py" />
         <option value="$PROJECT_DIR$/ch2/selenium-capture.py" />
         <option value="$PROJECT_DIR$/ch2/selenium-login.py" />
+        <option value="$PROJECT_DIR$/ch2/selenium-js.py" />
       </list>
     </option>
   </component>
@@ -168,7 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selenium-login">
+  <component name="RunManager" selected="Python.selenium-js">
     <configuration name="cr-getall" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,24 +215,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="sel-dongju" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="ml-practice" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch1/sel-dongju.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="selenium-capture" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,6 +228,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ml-practice" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2/selenium-capture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="selenium-js" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ch2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="ml-practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ch2/selenium-js.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +267,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.sel-dongju" />
-      <item index="1" class="java.lang.String" itemvalue="Python.cr-getall" />
-      <item index="2" class="java.lang.String" itemvalue="Python.login-getmileage" />
-      <item index="3" class="java.lang.String" itemvalue="Python.selenium-capture" />
-      <item index="4" class="java.lang.String" itemvalue="Python.selenium-login" />
+      <item index="0" class="java.lang.String" itemvalue="Python.cr-getall" />
+      <item index="1" class="java.lang.String" itemvalue="Python.login-getmileage" />
+      <item index="2" class="java.lang.String" itemvalue="Python.selenium-capture" />
+      <item index="3" class="java.lang.String" itemvalue="Python.selenium-login" />
+      <item index="4" class="java.lang.String" itemvalue="Python.selenium-js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.selenium-login" />
-        <item index="1" class="java.lang.String" itemvalue="Python.selenium-capture" />
-        <item index="2" class="java.lang.String" itemvalue="Python.login-getmileage" />
-        <item index="3" class="java.lang.String" itemvalue="Python.cr-getall" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sel-dongju" />
+        <item index="0" class="java.lang.String" itemvalue="Python.selenium-js" />
+        <item index="1" class="java.lang.String" itemvalue="Python.selenium-login" />
+        <item index="2" class="java.lang.String" itemvalue="Python.selenium-capture" />
+        <item index="3" class="java.lang.String" itemvalue="Python.login-getmileage" />
+        <item index="4" class="java.lang.String" itemvalue="Python.cr-getall" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +325,14 @@
       <option name="project" value="LOCAL" />
       <updated>1511317094164</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1511846991854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1511846991855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -490,14 +506,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ch2/selenium-capture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ch2/login.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -507,6 +515,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/selenium-capture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ch2/selenium-js.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
